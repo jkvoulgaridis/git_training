@@ -1,3 +1,5 @@
 Hi! I am Bob! 
 Fuck u 
+<<<<<<< HEAD
 I am not new here
+>>>>>>> conf_branch
